@@ -1,0 +1,15 @@
+ "proxy": "http://localhost:8080", 
+-> THIS command is used in the package.json file of the React frontend folder client's package.json to be able to sent the requests form react app to the backend server port no. 8080
+
+axios package 
+-> we use thi package for passing info from our frontend react server to the backend route of our choice.
+
+dispatch(authActions.login());
+
+https://clerk.com/blog/setting-and-using-cookies-in-react
+->Used this resource to access using react, the token made in the backend in the browser 
+
+
+>APPROACH FEATURE IMPLEMENTATION SERIAL
+>FOLDER FILE NAMES OF ALL FILES AND THEIR FUNCITON 
+>DATA FLOW FROM LOGIN REGISTER TO LOGOUT 
